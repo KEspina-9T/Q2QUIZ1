@@ -1,0 +1,50 @@
+h1{
+	color: white;
+	text-align: center;
+}	
+.title{
+	font-family: Oswald;
+
+}
+th {
+	text-align: center;
+	color: black;
+}
+td{
+	text-align: center;
+	background-color: #e3d5ca;
+}
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: white;
+}
+body{
+	background-image: url(https://i.natgeofe.com/n/e1c95b88-b7f6-4f23-a2ba-8ddfc8aedc22/casa-manila-museum.jpg?w=1436&h=958);
+	background-size: 100%;
+
+
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+.animate__tada:hover{
+	animation:tada ;
+	animation-iteration-count:infinite ;
+	animation-duration:2s ;
+}
+
+footer{
+	text-align: center;
+	background-color: white;
+	font-family: Eczar;
+	position: fixed;
+ 	left: 0;
+  	bottom: 0;
+  	right: 0;
+}
